@@ -1,5 +1,7 @@
 # 8x8_MIMO_freq_indoor
-Purpose of the Test:
+_this repo has the experimental data sets for freq. resp. of 8x8 MIMO_
+
+***1. Purpose of the Test:***
 
          - The purpose of this test is to measure the channel response of an indoor wireless
 
@@ -7,7 +9,7 @@ Purpose of the Test:
 
          - We have also used IEEE 802.11 legacy frame in our test.
 
-Equipment:
+***2. Equipment:***
 
          - 16 USRP N210 (8 synchronized USRPs at the Tx side and 8 unsynchronized USRPs at Rx side)
 
@@ -15,7 +17,7 @@ Equipment:
 
 
 
-Antenna Configuration:
+***3. Antenna Configuration:***
 
          - Shape of antenna array: We have considered two different configurations at the
 
@@ -29,7 +31,7 @@ Antenna Configuration:
 
 
 
-Collected data: 
+***4. Collected data:***
 
          - We have collected the data for 12 different placments of Tx. Rx was fixed in the blue spot.
 
@@ -45,8 +47,10 @@ Collected data:
 
 
 
-Contents of each folder:
+****5. Contents of each folder:***
 
-         - \rect_12_locations: rectangular configurations over 12 different places. (24 files in total, 12 for each sepaaration)
+         - \rect_12_locations: rectangular configurations over 12 different places. (24 files in total, 
+            12 for each sepaaration)
 
-         - \Linear arrays:     linear configuration at locations 8 (LOS) and 13 (NLOS). (4 files in total, 2 for each separation)
+         - \Linear arrays: linear configuration at locations 8 (LOS) and 13 (NLOS). (4 files in total,
+              2 for each separation)
