@@ -1,5 +1,5 @@
 # 8x8_MIMO_freq_indoor
-_this repo has the experimental data sets for freq. resp. of 8x8 MIMO_
+_this repo has the experimental data sets for freq. resp. of 8x8 MIMO._
 
 ***1. Purpose of the Test:***
 
@@ -47,7 +47,7 @@ _this repo has the experimental data sets for freq. resp. of 8x8 MIMO_
 
 
 
-****5. Contents of each folder:***
+***5. Contents of each folder:***
 
          - \rect_12_locations: rectangular configurations over 12 different places. (24 files in total, 
             12 for each sepaaration)
